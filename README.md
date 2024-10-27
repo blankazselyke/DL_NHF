@@ -12,4 +12,4 @@ A projekt célja műholdas képek alapján hajók szegmentálása. Az adatokat a
 ### Futtatás
 A projektet lokálisan futtattuk Jupyter Notebook segítségével, mivel az adathalmaz túl nagy ahhoz, hogy megfelelően kezelhető legyen Colabban. Azonban a train-test-validation adathalmazok előkészítésekor a teljes adathalmaz betöltésénél a Jupyter Notebook memóriája is megtelt, így egy kisebb részét töltjük be az adatoknak, amíg nem találunk megfelelő erőforrásokkal rendelkező környezetet.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DL_NHF/DL_NHF.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/blankazselyke/DL_NHF/blob/main/DL_NHF.ipynb)

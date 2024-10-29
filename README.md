@@ -1,6 +1,6 @@
 # Airbus ship detection
 
-## Dreamteam2024 csapat
+## Dreamteam2024 team
 ## Team members: Horváth Dóra (F0B9YK), Kiss Blanka Zselyke (C6037J), Nyiri Balázs (REMAIO)
 
 ### Project Description
